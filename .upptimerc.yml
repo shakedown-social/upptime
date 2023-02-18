@@ -5,11 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Shakedown Social
     url: https://shakedown.social
+    maxResponseTime: 10000
+  - name: Shakedown Social - Streaming
+    url: https://shakedown.social/api/v1/streaming/health
+    maxResponseTime: 10000
+  - name: Shakedown Social - Files
+    url: https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/dd80d2c95e48cfd2.jpeg
+    maxResponseTime: 10000
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   cname: status.shakedown.social
-  # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status - Shakedown Social
   introTitle: "status.shakedown.social"
