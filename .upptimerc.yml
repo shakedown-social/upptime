@@ -12,6 +12,7 @@ sites:
   - name: Shakedown Social - Uploads
     url: https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/dd80d2c95e48cfd2.jpeg
     maxResponseTime: 10000
+
 status-website:
   theme: dark
   cname: status.shakedown.social
@@ -24,6 +25,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+assignees:
+  - clifff
 
 # custom schedule because we use a cloudflare worker to trigger
 # the uptime workflow every minute. all other schedules are default
