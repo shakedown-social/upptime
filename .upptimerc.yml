@@ -18,12 +18,20 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status - Shakedown Social
   introTitle: "status.shakedown.social"
-  introMessage: This page reports the uptime status of [Shakedown Social](https://shakedown.social). It is updated automatically every five minutes.
+  introMessage: This page reports the uptime status of [Shakedown Social](https://shakedown.social). It is updated automatically every minute.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# https://upptime.js.org/docs/configuration
+# custom schedule because we use a cloudflare worker to trigger
+# the uptime workflow every minute. all other schedules are default
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 0 * * * *"
