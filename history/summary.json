@@ -22,19 +22,19 @@
     "url": "https://shakedown.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 59,
-    "timeDay": 57,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 60,
+    "timeDay": 64,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2023-02-25": 1
+      "2023-02-25": 2
     }
   },
   {
