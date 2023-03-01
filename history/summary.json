@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 919,
     "timeDay": 250,
     "timeWeek": 1093,
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 3
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 57,
     "timeDay": 52,
     "timeWeek": 56,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 3
     }
   },
   {
@@ -44,17 +44,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/dd80d2c95e48cfd2.jpeg",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 180,
-    "timeMonth": 176,
-    "timeYear": 176,
-    "dailyMinutesDown": {}
+    "time": 172,
+    "timeDay": 137,
+    "timeWeek": 171,
+    "timeMonth": 172,
+    "timeYear": 172,
+    "dailyMinutesDown": {
+      "2023-03-01": 0
+    }
   }
 ]
