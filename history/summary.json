@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 1083,
-    "timeDay": 361,
-    "timeWeek": 1441,
-    "timeMonth": 1083,
-    "timeYear": 1083,
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1067,
+    "timeDay": 324,
+    "timeWeek": 1419,
+    "timeMonth": 1067,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2023-03-01": 67
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 22,
-    "timeWeek": 38,
+    "timeDay": 28,
+    "timeWeek": 31,
     "timeMonth": 50,
     "timeYear": 50,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 172,
-    "timeWeek": 156,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 183,
+    "timeDay": 294,
+    "timeWeek": 181,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   }
 ]
