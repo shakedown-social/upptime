@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 663,
-    "timeDay": 403,
+    "timeDay": 358,
     "timeWeek": 268,
-    "timeMonth": 315,
+    "timeMonth": 320,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2023-03-01": 67
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 72,
+    "timeDay": 90,
     "timeWeek": 69,
     "timeMonth": 95,
     "timeYear": 81,
@@ -42,19 +42,18 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/dd80d2c95e48cfd2.jpeg",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 294,
-    "timeWeek": 295,
+    "timeDay": 293,
+    "timeWeek": 294,
     "timeMonth": 314,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-04-29": 0,
       "2023-04-16": 1
     }
   }
