@@ -42,9 +42,9 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/dd80d2c95e48cfd2.jpeg",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
+    "uptimeDay": "99.34%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -54,7 +54,7 @@
     "timeMonth": 312,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-05-01": 9,
+      "2023-05-01": 10,
       "2023-04-16": 1
     }
   }
