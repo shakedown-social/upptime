@@ -10,7 +10,7 @@ sites:
     url: https://shakedown.social/api/v1/streaming/health
     maxResponseTime: 10000
   - name: Shakedown Social - Uploads
-    url: https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/dd80d2c95e48cfd2.jpeg
+    url: https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png
     maxResponseTime: 10000
 
 status-website:
