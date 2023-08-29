@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 468,
-    "timeDay": 241,
-    "timeWeek": 213,
-    "timeMonth": 255,
-    "timeYear": 468,
+    "time": 466,
+    "timeDay": 78,
+    "timeWeek": 215,
+    "timeMonth": 243,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2023-03-01": 67
     }
@@ -26,18 +26,16 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 26,
+    "time": 113,
+    "timeDay": 27,
     "timeWeek": 37,
-    "timeMonth": 65,
-    "timeYear": 114,
-    "dailyMinutesDown": {
-      "2023-08-28": 1
-    }
+    "timeMonth": 64,
+    "timeYear": 113,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Uploads",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 312,
-    "timeWeek": 288,
-    "timeMonth": 208,
+    "timeDay": 86,
+    "timeWeek": 224,
+    "timeMonth": 209,
     "timeYear": 298,
     "dailyMinutesDown": {}
   }
