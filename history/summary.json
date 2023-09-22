@@ -44,8 +44,8 @@
     "slug": "shakedown-social-uploads",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -53,8 +53,6 @@
     "timeWeek": 176,
     "timeMonth": 183,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2023-09-22": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
