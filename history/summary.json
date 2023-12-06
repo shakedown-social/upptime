@@ -42,7 +42,7 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "99.82%",
@@ -54,6 +54,7 @@
     "timeMonth": 128,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2023-12-06": 0,
       "2023-12-05": 18
     }
   }
