@@ -4,19 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 406,
-    "timeDay": 1372,
-    "timeWeek": 960,
-    "timeMonth": 575,
-    "timeYear": 406,
+    "time": 438,
+    "timeDay": 2408,
+    "timeWeek": 1636,
+    "timeMonth": 882,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2024-01-18": 1,
+      "2024-01-18": 2,
       "2023-03-01": 67
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://shakedown.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 30,
     "timeMonth": 32,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Shakedown Social - Uploads",
