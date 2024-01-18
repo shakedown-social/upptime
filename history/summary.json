@@ -6,14 +6,14 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 647,
-    "timeDay": 4192,
-    "timeWeek": 3477,
-    "timeMonth": 2242,
+    "timeDay": 4075,
+    "timeWeek": 3400,
+    "timeMonth": 2213,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2024-01-18": 2,
@@ -27,7 +27,7 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,9 +36,7 @@
     "timeWeek": 35,
     "timeMonth": 34,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2024-01-18": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Uploads",
