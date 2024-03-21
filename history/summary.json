@@ -4,18 +4,20 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 1553,
-    "timeWeek": 356,
-    "timeMonth": 798,
-    "timeYear": 657,
-    "dailyMinutesDown": {}
+    "time": 683,
+    "timeDay": 866,
+    "timeWeek": 334,
+    "timeMonth": 780,
+    "timeYear": 656,
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   },
   {
     "name": "Shakedown Social - Websockets",
