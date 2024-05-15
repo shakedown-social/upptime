@@ -1,7 +1,7 @@
 url: https://shakedown.social
-status: up
-code: 200
-responseTime: 442
-lastUpdated: 2024-05-14T23:13:11.065Z
+status: degraded
+code: 502
+responseTime: 17821
+lastUpdated: 2024-05-15T02:59:55.070Z
 startTime: 2023-02-17T15:03:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
