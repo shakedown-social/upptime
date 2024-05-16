@@ -6,6 +6,11 @@ sites:
   - name: Shakedown Social - Homepage
     url: https://shakedown.social
     maxResponseTime: 10000
+  - name: Shakedown Social - Search
+    url: https://shakedown.social/api/v2/search?q=%23phish&limit=1
+    headers:
+      - "Authorization: Bearer $SEARCH_API_TOKEN"
+    maxResponseTime: 10000
   - name: Shakedown Social - Websockets
     url: https://shakedown.social/api/v1/streaming/health
     maxResponseTime: 10000
