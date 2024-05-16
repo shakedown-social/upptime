@@ -22,19 +22,19 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "down",
-    "uptime": "84.91%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "84.91%",
-    "uptimeYear": "84.91%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "35.46%",
+    "uptimeDay": "35.46%",
+    "uptimeWeek": "35.46%",
+    "uptimeMonth": "35.46%",
+    "uptimeYear": "35.46%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-05-16": 0
+      "2024-05-16": 3
     }
   },
   {
