@@ -4,18 +4,20 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
+    "time": 827,
     "timeDay": 151,
     "timeWeek": 339,
     "timeMonth": 357,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-08": 0
+    }
   },
   {
     "name": "Shakedown Social - Search",
