@@ -4,19 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 5448,
-    "timeWeek": 1847,
-    "timeMonth": 822,
-    "timeYear": 966,
+    "time": 887,
+    "timeDay": 8967,
+    "timeWeek": 3454,
+    "timeMonth": 1372,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2024-07-10": 1
+      "2024-07-10": 0
     }
   },
   {
