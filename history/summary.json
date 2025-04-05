@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 851,
-    "timeWeek": 562,
+    "time": 924,
+    "timeDay": 428,
+    "timeWeek": 566,
     "timeMonth": 347,
     "timeYear": 757,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 163,
-    "timeWeek": 179,
-    "timeMonth": 140,
-    "timeYear": 138,
+    "time": 137,
+    "timeDay": 111,
+    "timeWeek": 171,
+    "timeMonth": 139,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.46%",
     "time": 132,
-    "timeDay": 91,
-    "timeWeek": 92,
+    "timeDay": 19,
+    "timeWeek": 79,
     "timeMonth": 49,
     "timeYear": 57,
     "dailyMinutesDown": {
@@ -60,8 +60,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -76,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 74,
-    "timeWeek": 235,
-    "timeMonth": 207,
-    "timeYear": 215,
+    "timeDay": 226,
+    "timeWeek": 233,
+    "timeMonth": 210,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   }
 ]
