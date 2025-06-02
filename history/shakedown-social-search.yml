@@ -1,7 +1,7 @@
 url: https://shakedown.social/api/v2/search?q=%23phish&limit=1
 status: up
 code: 200
-responseTime: 118
-lastUpdated: 2025-06-01T23:17:33.347Z
+responseTime: 107
+lastUpdated: 2025-06-02T23:18:12.926Z
 startTime: 2024-05-16T03:49:48.261Z
 generator: Upptime <https://github.com/upptime/upptime>
