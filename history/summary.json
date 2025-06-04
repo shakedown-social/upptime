@@ -6,18 +6,16 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 373,
-    "timeWeek": 399,
-    "timeMonth": 367,
+    "time": 776,
+    "timeDay": 425,
+    "timeWeek": 402,
+    "timeMonth": 364,
     "timeYear": 511,
-    "dailyMinutesDown": {
-      "2025-06-03": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Search",
@@ -26,18 +24,16 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 130,
-    "timeWeek": 134,
-    "timeMonth": 139,
+    "timeDay": 128,
+    "timeWeek": 129,
+    "timeMonth": 138,
     "timeYear": 137,
-    "dailyMinutesDown": {
-      "2025-06-03": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Websockets",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 25,
-    "timeWeek": 40,
+    "timeDay": 12,
+    "timeWeek": 36,
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -69,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 112,
-    "timeWeek": 238,
-    "timeMonth": 250,
-    "timeYear": 233,
+    "timeDay": 278,
+    "timeWeek": 244,
+    "timeMonth": 255,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   }
 ]
