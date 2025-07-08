@@ -22,18 +22,20 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 80,
-    "timeWeek": 107,
-    "timeMonth": 126,
+    "timeDay": 89,
+    "timeWeek": 105,
+    "timeMonth": 125,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-08": 0
+    }
   },
   {
     "name": "Shakedown Social - Websockets",
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 290,
+    "timeDay": 443,
     "timeWeek": 344,
     "timeMonth": 914,
     "timeYear": 299,
