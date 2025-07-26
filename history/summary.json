@@ -6,18 +6,16 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 292,
-    "timeWeek": 264,
-    "timeMonth": 400,
+    "timeDay": 332,
+    "timeWeek": 262,
+    "timeMonth": 396,
     "timeYear": 348,
-    "dailyMinutesDown": {
-      "2025-07-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Search",
@@ -26,18 +24,16 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 109,
-    "timeWeek": 112,
-    "timeMonth": 137,
+    "timeDay": 114,
+    "timeWeek": 111,
+    "timeMonth": 136,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-07-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Websockets",
@@ -45,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 12,
-    "timeWeek": 27,
-    "timeMonth": 50,
-    "timeYear": 46,
+    "timeDay": 38,
+    "timeWeek": 31,
+    "timeMonth": 49,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 146,
-    "timeWeek": 279,
-    "timeMonth": 925,
+    "timeDay": 299,
+    "timeWeek": 263,
+    "timeMonth": 277,
     "timeYear": 302,
     "dailyMinutesDown": {}
   }
