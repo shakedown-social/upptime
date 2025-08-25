@@ -4,19 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 896,
-    "timeWeek": 556,
-    "timeMonth": 1084,
-    "timeYear": 412,
+    "time": 650,
+    "timeDay": 843,
+    "timeWeek": 585,
+    "timeMonth": 1075,
+    "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 1
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 192,
-    "timeWeek": 149,
-    "timeMonth": 150,
+    "timeDay": 215,
+    "timeWeek": 162,
+    "timeMonth": 153,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 1
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://shakedown.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
-    "status": "down",
+    "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 151,
-    "timeWeek": 73,
-    "timeMonth": 64,
+    "timeDay": 158,
+    "timeWeek": 84,
+    "timeMonth": 67,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 1
     }
   },
   {
