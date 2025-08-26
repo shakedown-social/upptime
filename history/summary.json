@@ -4,19 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 4366,
-    "timeWeek": 1788,
-    "timeMonth": 1370,
-    "timeYear": 443,
+    "time": 672,
+    "timeDay": 3362,
+    "timeWeek": 1644,
+    "timeMonth": 1342,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-08-26": 2
+      "2025-08-26": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 215,
-    "timeWeek": 162,
-    "timeMonth": 153,
+    "timeDay": 187,
+    "timeWeek": 156,
+    "timeMonth": 152,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 1
     }
   },
   {
