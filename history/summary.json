@@ -6,8 +6,8 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
@@ -15,9 +15,7 @@
     "timeWeek": 1432,
     "timeMonth": 1294,
     "timeYear": 444,
-    "dailyMinutesDown": {
-      "2025-09-01": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Search",
@@ -26,8 +24,8 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
@@ -35,9 +33,7 @@
     "timeWeek": 157,
     "timeMonth": 152,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-09-01": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Websockets",
@@ -46,8 +42,8 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
@@ -55,26 +51,26 @@
     "timeWeek": 87,
     "timeMonth": 68,
     "timeYear": 47,
-    "dailyMinutesDown": {
-      "2025-09-01": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Uploads",
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 316,
-    "timeWeek": 348,
-    "timeMonth": 361,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "timeDay": 257,
+    "timeWeek": 329,
+    "timeMonth": 356,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2025-09-01": 0
+    }
   }
 ]
