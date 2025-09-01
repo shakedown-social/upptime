@@ -4,19 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 271,
-    "timeWeek": 1515,
-    "timeMonth": 1315,
+    "timeDay": 353,
+    "timeWeek": 1432,
+    "timeMonth": 1294,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 1
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 90,
+    "timeDay": 112,
     "timeWeek": 157,
     "timeMonth": 152,
-    "timeYear": 134,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 1
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://shakedown.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
-    "status": "down",
+    "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 44,
-    "timeWeek": 95,
-    "timeMonth": 70,
+    "timeDay": 33,
+    "timeWeek": 87,
+    "timeMonth": 68,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 1
     }
   },
   {
