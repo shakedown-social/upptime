@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
+    "time": 553,
     "timeDay": 367,
     "timeWeek": 450,
     "timeMonth": 383,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "Shakedown Social - Search",
