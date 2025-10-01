@@ -6,17 +6,17 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 367,
-    "timeWeek": 450,
-    "timeMonth": 383,
-    "timeYear": 448,
+    "timeDay": 346,
+    "timeWeek": 425,
+    "timeMonth": 380,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 1
     }
   },
   {
