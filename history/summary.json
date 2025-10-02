@@ -6,18 +6,16 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 518,
-    "timeWeek": 489,
-    "timeMonth": 407,
-    "timeYear": 449,
-    "dailyMinutesDown": {
-      "2025-10-01": 1
-    }
+    "timeDay": 556,
+    "timeWeek": 488,
+    "timeMonth": 403,
+    "timeYear": 450,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Search",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 182,
-    "timeWeek": 173,
-    "timeMonth": 161,
+    "timeDay": 151,
+    "timeWeek": 169,
+    "timeMonth": 162,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 80,
-    "timeWeek": 47,
+    "timeDay": 19,
+    "timeWeek": 36,
     "timeMonth": 52,
     "timeYear": 48,
     "dailyMinutesDown": {}
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 218,
-    "timeWeek": 348,
-    "timeMonth": 288,
-    "timeYear": 324,
+    "timeDay": 92,
+    "timeWeek": 345,
+    "timeMonth": 285,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   }
 ]
