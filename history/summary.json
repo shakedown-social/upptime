@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 556,
+    "timeDay": 703,
     "timeWeek": 488,
     "timeMonth": 403,
     "timeYear": 450,
@@ -58,17 +58,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 92,
-    "timeWeek": 345,
-    "timeMonth": 285,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 297,
+    "timeDay": 709,
+    "timeWeek": 443,
+    "timeMonth": 317,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   }
 ]
