@@ -6,18 +6,16 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
+    "time": 556,
     "timeDay": 526,
     "timeWeek": 510,
     "timeMonth": 421,
-    "timeYear": 450,
-    "dailyMinutesDown": {
-      "2025-10-03": 1
-    }
+    "timeYear": 451,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Search",
@@ -26,8 +24,8 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
@@ -35,9 +33,7 @@
     "timeWeek": 138,
     "timeMonth": 154,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-10-03": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Websockets",
@@ -46,8 +42,8 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
@@ -55,26 +51,26 @@
     "timeWeek": 47,
     "timeMonth": 52,
     "timeYear": 48,
-    "dailyMinutesDown": {
-      "2025-10-03": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakedown Social - Uploads",
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 358,
-    "timeWeek": 442,
-    "timeMonth": 323,
+    "timeDay": 280,
+    "timeWeek": 429,
+    "timeMonth": 321,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   }
 ]
