@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 558,
-    "timeWeek": 488,
-    "timeMonth": 403,
+    "timeDay": 442,
+    "timeWeek": 497,
+    "timeMonth": 407,
     "timeYear": 450,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 151,
-    "timeWeek": 169,
-    "timeMonth": 162,
+    "timeDay": 147,
+    "timeWeek": 160,
+    "timeMonth": 161,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 19,
-    "timeWeek": 36,
-    "timeMonth": 52,
+    "timeDay": 233,
+    "timeWeek": 65,
+    "timeMonth": 56,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -60,17 +60,15 @@
     "slug": "shakedown-social-uploads",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 530,
-    "timeWeek": 436,
-    "timeMonth": 325,
+    "time": 299,
+    "timeDay": 572,
+    "timeWeek": 442,
+    "timeMonth": 323,
     "timeYear": 327,
-    "dailyMinutesDown": {
-      "2025-10-02": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
