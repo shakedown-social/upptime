@@ -1,7 +1,7 @@
 url: https://shakedown.social/api/v1/streaming/health
-status: down
-code: 503
-responseTime: 12
-lastUpdated: 2025-10-03T02:52:51.301Z
+status: up
+code: 200
+responseTime: 13
+lastUpdated: 2025-10-03T02:53:51.734Z
 startTime: 2023-02-18T09:02:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
