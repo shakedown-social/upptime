@@ -4,19 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 607,
-    "timeWeek": 532,
-    "timeMonth": 427,
-    "timeYear": 451,
+    "time": 555,
+    "timeDay": 526,
+    "timeWeek": 510,
+    "timeMonth": 421,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 1
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 79,
-    "timeWeek": 129,
-    "timeMonth": 151,
+    "timeDay": 109,
+    "timeWeek": 138,
+    "timeMonth": 154,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 1
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://shakedown.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
-    "status": "down",
+    "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 67,
-    "timeWeek": 49,
+    "timeDay": 61,
+    "timeWeek": 47,
     "timeMonth": 52,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 1
     }
   },
   {
