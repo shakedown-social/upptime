@@ -26,9 +26,9 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 219,
     "timeDay": 6670,
@@ -36,7 +36,7 @@
     "timeMonth": 1116,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-10-23": 74
+      "2025-10-23": 70
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://shakedown.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-websockets",
-    "status": "down",
+    "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 127,
-    "timeDay": 7857,
-    "timeWeek": 3608,
-    "timeMonth": 1079,
+    "timeDay": 6552,
+    "timeWeek": 3309,
+    "timeMonth": 1052,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-10-23": 73
+      "2025-10-23": 79
     }
   },
   {
