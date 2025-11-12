@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 750,
-    "timeDay": 362,
-    "timeWeek": 385,
-    "timeMonth": 2459,
-    "timeYear": 680,
+    "time": 703,
+    "timeDay": 437,
+    "timeWeek": 380,
+    "timeMonth": 2460,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2025-10-23": 69
     }
@@ -26,17 +26,16 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 220,
-    "timeDay": 210,
-    "timeWeek": 179,
-    "timeMonth": 1099,
+    "time": 219,
+    "timeDay": 216,
+    "timeWeek": 177,
+    "timeMonth": 1097,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-11-11": 1,
       "2025-10-23": 70
     }
   },
@@ -51,9 +50,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 126,
-    "timeDay": 38,
-    "timeWeek": 52,
+    "time": 127,
+    "timeDay": 48,
+    "timeWeek": 49,
     "timeMonth": 1078,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -72,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 740,
-    "timeWeek": 434,
-    "timeMonth": 353,
+    "timeDay": 98,
+    "timeWeek": 402,
+    "timeMonth": 347,
     "timeYear": 339,
     "dailyMinutesDown": {}
   }
