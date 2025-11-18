@@ -6,8 +6,8 @@
     "slug": "shakedown-social-homepage",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 675,
@@ -16,7 +16,7 @@
     "timeMonth": 2226,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 1,
       "2025-10-23": 69
     }
   },
@@ -27,8 +27,8 @@
     "slug": "shakedown-social-search",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 208,
@@ -37,7 +37,7 @@
     "timeMonth": 982,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 1,
       "2025-10-23": 70
     }
   },
@@ -48,8 +48,8 @@
     "slug": "shakedown-social-websockets",
     "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 126,
@@ -58,7 +58,7 @@
     "timeMonth": 953,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 1,
       "2025-10-23": 66
     }
   },
@@ -67,19 +67,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 360,
-    "timeWeek": 320,
-    "timeMonth": 347,
+    "timeDay": 340,
+    "timeWeek": 311,
+    "timeMonth": 343,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-11-18": 2
+      "2025-11-18": 0
     }
   }
 ]
