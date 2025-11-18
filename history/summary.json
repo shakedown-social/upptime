@@ -4,17 +4,17 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.40%",
+    "uptimeDay": "93.39%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
-    "time": 677,
-    "timeDay": 349,
-    "timeWeek": 368,
-    "timeMonth": 1623,
-    "timeYear": 660,
+    "time": 683,
+    "timeDay": 485,
+    "timeWeek": 470,
+    "timeMonth": 1663,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-11-18": 95,
       "2025-10-23": 69
@@ -25,17 +25,17 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.40%",
+    "uptimeDay": "93.39%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 205,
-    "timeDay": 91,
+    "timeDay": 93,
     "timeWeek": 118,
-    "timeMonth": 691,
-    "timeYear": 232,
+    "timeMonth": 683,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2025-11-18": 95,
       "2025-10-23": 70
@@ -48,7 +48,7 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "93.40%",
+    "uptimeDay": "93.39%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
@@ -69,8 +69,8 @@
     "slug": "shakedown-social-uploads",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 317,
@@ -79,7 +79,7 @@
     "timeMonth": 466,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2025-11-18": 100
+      "2025-11-18": 99
     }
   }
 ]
