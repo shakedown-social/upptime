@@ -4,19 +4,18 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 675,
-    "timeDay": 303,
-    "timeWeek": 357,
-    "timeMonth": 2015,
-    "timeYear": 670,
+    "time": 676,
+    "timeDay": 331,
+    "timeWeek": 371,
+    "timeMonth": 1990,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2025-11-18": 2,
       "2025-10-23": 69
     }
   },
@@ -27,8 +26,8 @@
     "slug": "shakedown-social-search",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 206,
@@ -37,7 +36,6 @@
     "timeMonth": 867,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-11-18": 2,
       "2025-10-23": 70
     }
   },
@@ -48,8 +46,8 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 126,
@@ -58,7 +56,6 @@
     "timeMonth": 824,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-11-18": 2,
       "2025-10-23": 66
     }
   },
@@ -67,19 +64,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 266,
-    "timeWeek": 267,
-    "timeMonth": 312,
+    "time": 292,
+    "timeDay": 274,
+    "timeWeek": 273,
+    "timeMonth": 314,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 0
     }
   }
 ]
