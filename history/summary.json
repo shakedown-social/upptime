@@ -4,18 +4,19 @@
     "url": "https://shakedown.social",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 311,
-    "timeWeek": 377,
-    "timeMonth": 2190,
-    "timeYear": 676,
+    "timeDay": 305,
+    "timeWeek": 370,
+    "timeMonth": 2152,
+    "timeYear": 674,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-23": 69
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://shakedown.social/api/v2/search?q=%23phish&limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/shakedown.social.ico",
     "slug": "shakedown-social-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 208,
-    "timeDay": 84,
-    "timeWeek": 146,
-    "timeMonth": 965,
+    "time": 207,
+    "timeDay": 74,
+    "timeWeek": 139,
+    "timeMonth": 946,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-23": 70
     }
   },
@@ -46,7 +48,7 @@
     "slug": "shakedown-social-websockets",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
@@ -54,8 +56,9 @@
     "timeDay": 27,
     "timeWeek": 40,
     "timeMonth": 934,
-    "timeYear": 151,
+    "timeYear": 150,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-23": 66
     }
   },
@@ -64,19 +67,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 347,
-    "timeWeek": 317,
-    "timeMonth": 344,
+    "timeDay": 339,
+    "timeWeek": 314,
+    "timeMonth": 343,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-11-18": 4
+      "2025-11-18": 0
     }
   }
 ]
