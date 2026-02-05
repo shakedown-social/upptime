@@ -67,19 +67,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 454,
-    "timeDay": 12016,
-    "timeWeek": 4839,
-    "timeMonth": 1877,
+    "timeDay": 8107,
+    "timeWeek": 4555,
+    "timeMonth": 1839,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2026-02-05": 0,
+      "2026-02-05": 1,
       "2025-11-18": 129
     }
   }
