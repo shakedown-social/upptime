@@ -6,8 +6,8 @@
     "slug": "shakedown-social-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 877,
@@ -16,7 +16,6 @@
     "timeMonth": 3384,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2026-02-24": 1,
       "2025-11-18": 95,
       "2025-10-23": 69
     }
@@ -68,18 +67,19 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 559,
-    "timeDay": 7109,
-    "timeWeek": 4600,
-    "timeMonth": 2935,
-    "timeYear": 653,
+    "time": 607,
+    "timeDay": 12484,
+    "timeWeek": 6601,
+    "timeMonth": 3459,
+    "timeYear": 715,
     "dailyMinutesDown": {
+      "2026-02-24": 0,
       "2025-11-18": 129
     }
   }
