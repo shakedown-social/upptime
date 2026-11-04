@@ -386,20 +386,20 @@
     "url": "https://files.shakedown.social/accounts/avatars/109/357/389/718/265/462/original/c83dff7e175cde04.png",
     "icon": "https://icons.duckduckgo.com/ip3/files.shakedown.social.ico",
     "slug": "shakedown-social-uploads",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 673,
-    "timeDay": 15851,
-    "timeWeek": 4187,
-    "timeMonth": 1240,
+    "time": 674,
+    "timeDay": 10688,
+    "timeWeek": 3762,
+    "timeMonth": 1213,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-11-18": 129,
-      "2026-11-04": 0
+      "2026-11-04": 1
     }
   }
 ]
